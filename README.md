@@ -1,4 +1,4 @@
-## react-quickly
+## React, Quickly!
 a barebones starting point for react projects
 
 ### step 1:
