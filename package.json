@@ -6,7 +6,11 @@
   "scripts": {
     "start": "webpack-dev-server --inline --content-base ."
   },
-  "author": "",
+  "author": "josephquested",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/josephquested/react-quickly.git"
+  },
   "license": "ISC",
   "dependencies": {
     "react": "^0.14.7",
