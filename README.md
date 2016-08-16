@@ -1,14 +1,11 @@
-## React, Quickly!
-a barebones starting point for react projects
+# *REACT QUICKLY*
+## an extremely minimal React template
 
-### step 1:
-run `npm install`
+### one:
+clone this repository
 
-### step 2:
-run `npm start`
+### two:
+npm install
 
-### step 3:
-open index.html in a web browser
-
-### step 4:
-**REACT QUICKLY!**
+### three:
+visit http://localhost:8080/ in your browser
