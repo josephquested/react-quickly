@@ -8,4 +8,8 @@ clone this repository
 npm install
 
 ### three:
+npm start
+
+### four:
 visit http://localhost:8080/ in your browser
+
